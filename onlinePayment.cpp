@@ -64,10 +64,10 @@ int main() {
     double amount;
 
     while (true) {
-        cout << "\n====== Online Payment System ======" << endl;
+        cout << "\n======= Online Payment System =======" << endl;
         cout << "1. Pay using Credit Card" << endl;
         cout << "2. Pay using PayPal" << endl;
-        cout << "3. Pay using Bank Transfer" << endl;
+        cout << "3. Pay using Bank Transfer " << endl;
         cout << "4. Exit" << endl;
         cout << "Enter your choice: ";
         cin >> choice;
